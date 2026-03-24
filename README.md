@@ -2,21 +2,20 @@
 
 # Gakumas-Translation-Data-ID
 
-- Localization Data for [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
+Repository ini berisi data lokalisasi untuk [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify).
 
-## Documentation
-- https://gakumas.natsume.io origin sources.
-- Fork oleh Ryounimai ke Indonesian
-- Gunakan api dibawah. https://api.github.com/repos/ryounimai/Gakumas-Translation-Data-EN-ID/releases/latest
+## Dokumentasi
+- **Sumber Original:** https://gakumas.natsume.io
+- **Fork:** Oleh Ryounimai ke Bahasa Indonesia.
+- **API URL:** `https://api.github.com/repos/ryounimai/Gakumas-Translation-Data-EN-ID/releases/latest`
 
-## Struktur Files and Folder
+## Struktur File dan Folder
 
-- `./local-files/localization.json`: Localization strings.
-- `./local-files/generic.json`: General strings.
-- `./local-files/genericTrans`: Sama seperti `generic.json`.
-- Folder and file names in `genericTrans` can be customized to to distinguish translation content.
-- `./local-files/resource` Resource files.
+- **`./local-files/localization.json`**: String terjemahan lokalisasi.
+- **`./local-files/generic.json`**: String umum.
+- **`./local-files/genericTrans`**: Sama seperti `generic.json`. Nama folder dan file di dalamnya dapat dikustomisasi untuk membedakan konten terjemahan.
+- **`./local-files/resource`**: File resource.
 
 ## Disclaimer
-- Saya sbg Ryounimai tidak menggunakan discord.
-- Akan banyak kesalahan dalam translasi bahasa, mohon maklumi.
+- Saya (**Ryounimai**) tidak menggunakan Discord.
+- Masih terdapat banyak kesalahan dalam terjemahan bahasa, mohon maklumi.

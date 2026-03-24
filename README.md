@@ -7,6 +7,7 @@
 ## Documentation
 - https://gakumas.natsume.io origin sources.
 - Forked by Ryounimai to Indonesian
+- use this api https://api.github.com/repos/ryounimai/Gakumas-Translation-Data-EN-ID/releases/latest
 
 ## Files and Folder Structure
 

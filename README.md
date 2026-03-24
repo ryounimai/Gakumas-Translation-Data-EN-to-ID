@@ -1,11 +1,12 @@
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/qARc4Hdc3n)](https://natsume.io/GakumasLocalize)
 
-# Gakumas-Translation-Data-EN
+# Gakumas-Translation-Data-ID
 
 - Localization Data for [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
 
 ## Documentation
 https://gakumas.natsume.io
+Forked by Ryounimai to Indonesian
 
 ## Files and Folder Structure
 

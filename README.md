@@ -5,8 +5,8 @@
 - Localization Data for [gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify)
 
 ## Documentation
-https://gakumas.natsume.io
-Forked by Ryounimai to Indonesian
+- https://gakumas.natsume.io origin sources.
+- Forked by Ryounimai to Indonesian
 
 ## Files and Folder Structure
 
